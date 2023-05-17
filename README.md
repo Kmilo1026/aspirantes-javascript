@@ -1,1 +1,0 @@
-# aspirantes-javascript
